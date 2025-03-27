@@ -1,2 +1,3 @@
-login = "admin"
-print(f"logujemy {login}")
+login +"admin"
+print("logujemy{login}
+")
